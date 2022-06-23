@@ -1,2 +1,0 @@
-# ipainstall.io
-ipainstall
